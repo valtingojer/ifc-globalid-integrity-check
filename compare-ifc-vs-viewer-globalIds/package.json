@@ -1,0 +1,13 @@
+{
+  "name": "compare-ifc-vs-viewer-globalids",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Application to compare global IDs between IFC and viewer files"
+}

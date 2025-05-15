@@ -1,0 +1,5 @@
+Number of globalIds in the ifc file: 1034
+Number of globalIds in the viewer file: 691
+Number of globalIds that are in the ifc file but not in the viewer file: 343
+Number of globalIds that are in the viewer file but not in the ifc file: 0
+Number of globalIds that are in both files: 691
