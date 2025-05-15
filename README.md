@@ -1,0 +1,1 @@
+# ifc-globalid-integrity-check
